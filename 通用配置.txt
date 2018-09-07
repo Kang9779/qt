@@ -1,0 +1,4 @@
+DEFINES += QT_DLL QWT_DLL
+LIBS += -L"D:\Softwares\Qt\5.11.1\mingw53_32\lib" -lqwtd
+LIBS += -L"D:\Softwares\Qt\5.11.1\mingw53_32\lib" -lqwt
+INCLUDEPATH += D:\Softwares\Qt\5.11.1\mingw53_32\include\Qwt
